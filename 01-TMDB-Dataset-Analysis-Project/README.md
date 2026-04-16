@@ -70,6 +70,13 @@ Following the cleaning phase, the refined dataset held 10,840 records and 10 col
 ### Q3: Does a higher production budget translate to higher box office revenue?
 > Yes, there is a distinct positive correlation between `budget` and `revenue`, showing that higher investments generally align with higher returns, aside from a few minor outliers.
 
+### Q4: How has the volume of movie releases changed over the years?
+The film industry has experienced massive growth over the analyzed timeline. Production numbers steadily increased until the 1990s, leading to an exponential boom that peaked near 2015.
+
+### Q5: What is the distribution of movie runtimes, and what is the standard length?
+Movie runtimes are highly standardized, with the heavy majority of films lasting between 90 and 120 minutes.
+We can notice the positive correlation between `budget` and `revenue`, indecating a relation between them with little outliers. 
+
 ## Tools & Libraries
 - JupyterLab
 - Python 3
