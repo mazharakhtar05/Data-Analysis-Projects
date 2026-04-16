@@ -1,5 +1,5 @@
 # Analyzing the TMDB Movies Dataset
-### Project 2 | Udacity Data Analyst Nanodegree
+### Project 1 | Udacity Data Analyst Nanodegree
 **Author:** MAZHAR AKHTAR ANSARI
 
 | Contents |
